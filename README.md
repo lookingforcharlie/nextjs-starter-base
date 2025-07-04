@@ -51,3 +51,10 @@ npm install -D prettier prettier-plugin-tailwindcss
 - example-thing.tsx
 
 ## [Convention when develop Next.js application](https://github.com/alan2207/bulletproof-react?tab=readme-ov-file)
+
+## TypeScript version
+
+- Inside VS Code, open a .ts or .tsx file, you will see the typescript button in the bottom bar
+- Shift + CMD + p, type 'typescript', choose 'Use workspace version'
+
+## [Use a emoji as a favicon](https://css-tricks.com/emoji-as-a-favicon/)
