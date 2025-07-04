@@ -1,4 +1,7 @@
-# Next.JS Starter Kit
+# Next.JS Starter Kit Base Version
+
+- settings.json/.vscode, eslint, prettier, tailwind css, code cleanup.
+- Stop before import UI library
 
 ## [Setup prettier for formatting](https://nextjs.org/docs/app/api-reference/config/eslint)
 
