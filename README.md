@@ -3,6 +3,20 @@
 - settings.json/.vscode, eslint, prettier, tailwind css, code cleanup.
 - Stop before import UI library
 
+## Clone the repo without git history
+
+- Create my-project-folder, and cd my-project-folder
+
+  ```
+  npx degit lookingforcharlie/nextjs-starter-base .
+
+  git init
+
+  npm install
+
+  npm run dev
+  ```
+
 ## [Setup prettier for formatting](https://nextjs.org/docs/app/api-reference/config/eslint)
 
 ```
